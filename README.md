@@ -1,3 +1,16 @@
+***This Fork is for the French language translation of Ghidra*** We will consider it unofficial at the moment. Send me a message and I can invite you to the crowdin Project I set up for this. 
+
+Bonjour à tous, 
+Ce dépôt GIT existe pour la traduction du project Ghidra (un outil crée par le NSA <<Agence nationale de la sécurité>>) en language française.
+
+Si vous voulez contribuer à la traduction, veuillez m'envoyer un message privé via GitHub ou par courriel (grigoletti at icloud dot com) et je peux vous ajouter au project Crowdin.
+
+Merci de votre temps et de votre attention, 
+
+Joseph Grigoletti
+
+
+
 # Ghidra Software Reverse Engineering Framework
 
 Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of process instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
