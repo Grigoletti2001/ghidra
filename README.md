@@ -1,10 +1,12 @@
 ***This Fork is for the French language translation of Ghidra*** We will consider it unofficial at the moment. Send me a message and I can invite you to the crowdin Project I set up for this. 
 
 Bonjour à tous, 
-Ce dépôt GIT existe pour la traduction du project Ghidra (un outil crée par le NSA <<Agence nationale de la sécurité>>) en language française.
+Ce dépôt GIT existe pour la traduction du project Ghidra (un outil crée par le NSA <<Agence nationale de la sécurité>>) en langue française.
 
-Si vous voulez contribuer à la traduction, veuillez m'envoyer un message privé via GitHub ou par courriel (grigoletti at icloud dot com) et je peux vous ajouter au project Crowdin ou vous pouvez allez ou projet directement
-https://crowdin.com/project/ghidra-fr/invite?d=q64566k675f507b373l4r493o4 
+Si vous voulez contribuer à la traduction, veuillez m'envoyer un message privé via GitHub ou par courriel (grigoletti at icloud dot com) et je peux vous ajouter au project Crowdin ou ( vous pouvez allez ou projet directement
+
+https://crowdin.com/project/ghidra-fr/invite?d=q64566k675f507b373l4r493o4  )
+
 et créer un compte. Après cela, vous pouvez commencer la traduction. SVP, il faut prioritiser la traduction du project avant on commence avec le QA. Cela va arrive après la première version française.
 
 Merci de votre temps et de votre attention, 
