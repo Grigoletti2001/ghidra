@@ -7,7 +7,7 @@ Si vous voulez contribuer à la traduction, veuillez m'envoyer un message privé
 
 https://crowdin.com/project/ghidra-fr/invite?d=q64566k675f507b373l4r493o4  )
 
-et créer un compte. Après cela, vous pouvez commencer la traduction. SVP, il faut prioritiser la traduction du project avant on commence avec le QA. Cela va arrive après la première version française.
+et créez un compte. Après cela, vous pouvez commencer la traduction. SVP, il faut prioritiser la traduction du project avant on commence avec le QA. Cela va arrive après la première version française.
 
 Merci de votre temps et de votre attention, 
 
